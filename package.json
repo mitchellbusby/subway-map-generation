@@ -1,0 +1,17 @@
+{
+  "name": "subway-map-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3",
+    "random-item": "^3.0.0",
+    "random-weighted-choice": "^0.1.3"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
