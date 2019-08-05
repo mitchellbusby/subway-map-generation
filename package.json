@@ -9,7 +9,8 @@
     "random-weighted-choice": "^0.1.3"
   },
   "scripts": {
-    "dev": "parcel index.html"
+    "dev": "parcel index.html",
+    "dev:testing-animations": "parcel testing-animations.html"
   },
   "devDependencies": {
     "typescript": "^3.5.3"
