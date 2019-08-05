@@ -2,7 +2,7 @@
 
 ## What is this that I've stumbled upon?
 
-Going to PyCon AU 2019 inspired me to start playing around with procedural generaiton of stuff. For art. Specifically, this one repository that does random generation of subway maps in Processing.py got me thinking about subway maps.
+Going to PyCon AU 2019 inspired me to start playing around with procedural generation of stuff. For art. Specifically, [this one repository](https://github.com/nathan-hellinga/subway-map-generator) that does random generation of subway maps in Processing.py got me thinking about subway maps.
 
 So this is a series of experiments in subway map generation.
 
